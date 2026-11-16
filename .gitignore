@@ -6,3 +6,5 @@ oracleJdk-26/
 *.class
 .vscode/
 .idea/
+*.exe
+.vscode/
