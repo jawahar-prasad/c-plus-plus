@@ -1,0 +1,8 @@
+oracleJdk-26/
+*.exe
+*.o
+*.obj
+*.dll
+*.class
+.vscode/
+.idea/
