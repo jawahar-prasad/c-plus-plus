@@ -7,7 +7,7 @@ int main(){
     int  y;
     cout<<"Enter second number: ";
     cin>>y;
-    cout<<"Sum of two numbers is: "<<x+y;
+    cout<<"Sum of two number is: "<<x+y;
     return 0;
 
     
