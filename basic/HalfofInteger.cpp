@@ -4,6 +4,7 @@ using namespace std;
 int main() {
     int x;
     cin >> x;
-    cout << x / 2;
+    float y = (float)x;// typecasting
+    cout << y/2;
     return 0;
 }
