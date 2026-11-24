@@ -1,7 +1,9 @@
-#include<iostream>
+#include <iostream>
 using namespace std;
-int main(){
-    char x = 'a';
-    cout<<x;
+
+int main() {
+    int x;
+    cin >> x;
+    cout << x / 2;
     return 0;
 }
